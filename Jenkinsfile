@@ -1,7 +1,7 @@
 pipeline {
      environment {
-       ID_DOCKER = "maxicolas"
-       PASS_DOCKER = "gnocchi123!"
+       ID_DOCKER = "dockermaxnic"
+       PASS_DOCKER = "@ch0colaT44"
        IMAGE_NAME = "alpinehelloworld"
        IMAGE_TAG = "latest"
        STAGING = "${ID_DOCKER}-staging"
